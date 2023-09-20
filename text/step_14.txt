@@ -1,1 +1,6 @@
-14. Rename this new layer to Quadbin Tiles. Click on the layer again and you should see details options. Click on the More Options button next to the Fill Color toggle button. Under the Color based on field, select Avg_pop. Lower the Opacity slider to 0.1.
+14.
+Rename this new layer to Quadbin Tiles.
+Click on the layer again and you should see details options.
+Click on the More Options button next to the Fill Color toggle button.
+Under the Color based on field, select Avg_pop.
+Lower the Opacity slider to 0.1.
