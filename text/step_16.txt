@@ -2,4 +2,4 @@
 Rename this new layer to Predicted Revenue.
 Click on the layer again and you should see details options.
 Click on the More Options button next to the Fill Color toggle button.
-Under the Color based on field, select Predicted_yearly_sales and then the aggregation option "AVG".
+Under the Color based on field, select Predicted_yearly_sales.
