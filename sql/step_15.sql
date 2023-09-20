@@ -1,4 +1,4 @@
-SELECT quadbins.geom as geom,
+SELECT quadbins.id as quadbin,
 carto.ml_fn_predict_sales_by_demographics(
   quadbins.id,
   demog.total_pop,
